@@ -45,8 +45,11 @@ Los códigos de Python se escribirán y ejecutarán en Google Colab, una herrami
 - Distribuciones con scipy.stats
 
 ## 🎥 Grabaciones
-🎥 **Grabaciones en YouTube:** [¡Haz clic aquí para ver la lista de reproducción!](https://youtube.com/playlist?list=PLqq4bX-XIg35M36iyawq9DBG1SSdzCbQ1&si=9cIHniMDL7UqWTGs)
+🎥 **Grabaciones en YouTube:** [¡Haz clic aquí para ver la lista de reproducción!](https://youtube.com/playlist?list=PLqq4bX-XIg37GRRK2QODyn7MoqrdQ8h6i&si=eJFwV0B3Q4Z-pyy-)
 
 ## 👨‍🏫 Instructores
-### Daniel Flores uwu
-- **Correo:** [a20200238@pucp.edu.pe](mailto:a20200238@pucp.edu.pe)
+### Bryan Alexander Chura Condori
+- **Correo:** [a20213900@pucp.edu.pe](mailto:a20213900@pucp.edu.pe)
+
+## Creditos a: 
+### Daniel Flores 
