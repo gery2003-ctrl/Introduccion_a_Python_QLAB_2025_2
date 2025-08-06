@@ -1,2 +1,29 @@
-Entrega de trabajo final/Grupo 7: Entrega Final Python.ipynb
-/Entrega de trabajo final
+# Variables de entorno
+.env
+.env.local
+
+# Python - archivos compilados y cachés
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*~
+
+# IDEs
+.vscode/
+.idea/
